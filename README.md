@@ -1,24 +1,16 @@
-# README
+# SUPERHEROES
+- API is powered by rails 🚃
+- This web application enables you to make the next Marvel or DC
+- This API enables one to view superheroes and their realnames(secret identity) 👍
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
 Things you may want to cover:
 
 * Ruby version
+- The program uses ruby version 2.7.4
+```bash
+gem install ruby 2.7.4
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
